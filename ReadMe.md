@@ -8,7 +8,7 @@ The dataset used for training and testing the model consists of images of flower
 
 Here are some sample images of the different types of flowers:
 
-[![Daisy](/images/daisy.jpg)](https://en.wikipedia.org/wiki/Daisy)
+[![Daisy](/images/daisy.jpg)](https://cdn.pixabay.com/photo/2021/01/29/06/28/marguerite-5959944__340.jpg)
 [![Dandelion](/images/dandelion.jpg)](https://en.wikipedia.org/wiki/Dandelion)
 [![Rose](/images/rose.jpg)](https://en.wikipedia.org/wiki/Rose)
 [![Sunflower](/images/sunflower.jpg)](https://en.wikipedia.org/wiki/Sunflower)
