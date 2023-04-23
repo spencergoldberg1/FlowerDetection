@@ -6,9 +6,7 @@ This project aims to use deep learning techniques for image recognition to class
 
 The dataset used for training and testing the model consists of images of flowers. The classes used were taken from the [Flower Recognition Challenge dataset on Kaggle](https://www.kaggle.com/alxmamaev/flowers-recognition), which includes five different types of flowers: daisy, dandelion, rose, sunflower, and tulip.
 
-Here are some sample images of the different types of flowers:
-
-:
+Here are some sample images of the different types of flowers::
 
 <div>
     <a href="https://en.wikipedia.org/wiki/Daisy">
