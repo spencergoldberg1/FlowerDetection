@@ -8,11 +8,25 @@ The dataset used for training and testing the model consists of images of flower
 
 Here are some sample images of the different types of flowers:
 
-[![Daisy](https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?cs=srgb&dl=pexels-pixabay-67857.jpg&fm=jpg)](https://en.wikipedia.org/wiki/Daisy)
-[![Dandelion](https://cdn.britannica.com/44/5644-050-F793FA67/dandelion-head-flowers.jpg)](https://en.wikipedia.org/wiki/Dandelion)
-[![Rose](https://images.unsplash.com/photo-1560717789-0ac7c58ac90a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFpc3l8ZW58MHx8MHx8&w=1000&q=80)](https://en.wikipedia.org/wiki/Rose)
-[![Sunflower](https://images.unsplash.com/photo-1616156194103-ab9d45e33915?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80)](https://en.wikipedia.org/wiki/Sunflower)
-[![Tulip](https://media.istockphoto.com/id/1393708668/photo/tulips.jpg?b=1&s=170667a&w=0&k=20&c=X2OwUy-brf374FihO8KcCj0-TbJrZxtpti3d7SymhHw=)](https://en.wikipedia.org/wiki/Tulip)
+:
+
+<div>
+    <a href="https://en.wikipedia.org/wiki/Daisy">
+        <img src="https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?cs=srgb&dl=pexels-pixabay-67857.jpg&fm=jpg" width="200"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Dandelion">
+        <img src="https://cdn.britannica.com/44/5644-050-F793FA67/dandelion-head-flowers.jpg" width="200"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Rose">
+        <img src="https://images.unsplash.com/photo-1560717789-0ac7c58ac90a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFpc3l8ZW58MHx8MHx8&w=1000&q=80" width="200"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Sunflower">
+        <img src="https://images.unsplash.com/photo-1616156194103-ab9d45e33915?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80" width="200"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Tulip">
+        <img src="https://media.istockphoto.com/id/1393708668/photo/tulips.jpg?b=1&s=170667a&w=0&k=20&c=X2OwUy-brf374FihO8KcCj0-TbJrZxtpti3d7SymhHw=" width="200"/>
+    </a>
+</div>
 
 ## Methodology
 
