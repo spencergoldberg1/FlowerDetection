@@ -9,10 +9,10 @@ The dataset used for training and testing the model consists of images of flower
 Here are some sample images of the different types of flowers:
 
 [![Daisy](https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?cs=srgb&dl=pexels-pixabay-67857.jpg&fm=jpg)](https://en.wikipedia.org/wiki/Daisy)
-[![Dandelion](/images/dandelion.jpg)](https://en.wikipedia.org/wiki/Dandelion)
-[![Rose](/images/rose.jpg)](https://en.wikipedia.org/wiki/Rose)
-[![Sunflower](/images/sunflower.jpg)](https://en.wikipedia.org/wiki/Sunflower)
-[![Tulip](/images/tulip.jpg)](https://en.wikipedia.org/wiki/Tulip)
+[![Dandelion](https://cdn.pixabay.com/photo/2014/09/27/17/35/dandelion-463928__340.jpg)](https://en.wikipedia.org/wiki/Dandelion)
+[![Rose](https://images.pexels.com/photos/1339317/pexels-photo-1339317.jpeg?cs=srgb&dl=pexels-rodnae-productions-1339317.jpg&fm=jpg)](https://en.wikipedia.org/wiki/Rose)
+[![Sunflower](https://images.pexels.com/photos/2886217/pexels-photo-2886217.jpeg?cs=srgb&dl=pexels-kevin-kou-2886217.jpg&fm=jpg)](https://en.wikipedia.org/wiki/Sunflower)
+[![Tulip](https://images.pexels.com/photos/146083/pexels-photo-146083.jpeg?cs=srgb&dl=pexels-pixabay-146083.jpg&fm=jpg)](https://en.wikipedia.org/wiki/Tulip)
 
 ## Methodology
 
