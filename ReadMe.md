@@ -36,9 +36,9 @@ The model achieved an accuracy of 85% on the validation set, demonstrating its e
 
 ## Train New Model
 
-If you are interested in training your own model on any dataset you like, follow this link [here](https://github.com/your_username/Flower-Recognition/blob/main/train.py), and view the instructions on how to run the python script.
+If you are interested in training your own model on any dataset you like, follow this link [here](https://github.com/spencergoldberg1/FlowerDetection/tree/develop/Script), and view the instructions on how to run the python script.
 
-**Note**: Must be in the 'main' directory to run the python script titled ['train.py'](https://github.com/spencergoldberg1/FlowerDetection/tree/develop/Script).
+**Note**: Must be in the 'main' directory to run the python script titled ['train.py'](https://github.com/spencergoldberg1/FlowerDetection/tree/develop/Script/alexnet.py).
 
 ## Conclusion
 
