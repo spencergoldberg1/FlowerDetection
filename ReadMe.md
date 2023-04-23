@@ -34,6 +34,5 @@ Special thanks to the Kaggle community for providing the Flower Recognition Chal
 
 ## About the Author
 
-This project was created by [your name], a data science enthusiast interested in exploring the potential of deep learning techniques for image recognition tasks. Feel free to visit my [GitHub profile](https://github.com/your_username) to see more of my work.
+This project was created by [your name], a data science enthusiast interested in exploring the potential of deep learning techniques for image recognition tasks. Feel free to visit my [GitHub profile](https://github.com/spencergoldberg1) to see more of my work.
 
-![Flowers](/images/flowers.jpg)
